@@ -96,7 +96,8 @@ body{
   position: sticky;
   float: right;
   top: 80px;
-  width: 60px;
+  right: 2px;
+  width: 50px;
   margin-top: 70px;
   cursor: pointer;
 }
@@ -142,14 +143,16 @@ body{
 }
 
 .section3{
+  position:relative ;
   display: flex;
   width: 85%;
   justify-content: space-around;
-  margin: 100px 50px 0px 90px;
+  margin: 100px 50px 50px 90px;
   background-color: #483EFF;
   padding: 40px;
   border-radius: 10px;
-  margin-bottom: 50px;
+  /* margin-bottom: 50px; */
+  bottom:20px;
 }
 
 .info-btn{
