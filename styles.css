@@ -55,6 +55,7 @@ body{
   border-radius: 18px;
   padding:10px;
   border: none;
+  margin-left:5px;
   margin-right: 250px;
   background-image: url("search.png");
   background-repeat: no-repeat;
